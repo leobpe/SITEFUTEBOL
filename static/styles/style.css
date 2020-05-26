@@ -1,0 +1,35 @@
+.navbar-pequena {
+    height: 40px;
+}
+
+.logo-pequena {
+    height: 35px;
+}
+
+.nav-roxa {
+    background-color: rgba(137, 26, 141, 0.863);
+    height: 100px;
+}
+
+.logo-grande {
+    position: absolute;
+    left: 50px;
+}
+
+.container-campo-futebol {
+    background-image: url(../images/background.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0px;
+}
+
+.text-da-nav {
+    margin-top: 160px;
+    margin-left: 50px;
+}
+
+.text-roxo {
+    margin-top: 50px;
+    color: rgb(137, 26, 141);
+}
